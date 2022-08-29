@@ -1,0 +1,28 @@
+.search-form {
+  text-align: center;
+  padding: 5px;
+  background-color: #0314ff;
+}
+.search-form > button {
+  cursor: pointer;
+  border-radius: 3px;
+}
+.search-form > button:hover {
+  color: white;
+  background-color: gray;
+}
+.load-more {
+  display: none;
+}
+.visible {
+  color: white;
+  border-radius: 3px;
+  display: block;
+  background-color: #0314ff;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.visible:hover {
+  background-color: #0916cb;
+  cursor: pointer;
+}
