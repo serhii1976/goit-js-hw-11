@@ -3,7 +3,6 @@ import Notiflix from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import { refs } from './refs';
-// import renderCards from './renderCards';
 
 const API_KEY = '29473371-b315f9acd1ced765f914602d8';
 const MAIN_URL = 'https://pixabay.com/api/';
